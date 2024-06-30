@@ -1,1 +1,2 @@
 # phase-1-week-1-projects
+this repository consist of three projects. The first project involves printing out the grade of students based on inputs from students. The second project involves printing out the status of users speed based on the inputs. The third project involves calculating the net pay of a user based on PAYE NHIF and NSSF deductions.
